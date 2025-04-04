@@ -35,7 +35,7 @@ Here’s what I captured:
 
 ## 💭 Final Thoughts
 
-No fancy exploit. No fuzzing. Just plug, connect, and boom — remote shell on a photo printer. 😅
+No fancy exploit. No fuzzing. Just plug, connect, and boom — remote shell on a Projector. 😅
 
 This probably isn’t an intentional backdoor, just a serious misconfiguration. But it’s a reminder that **even the most harmless-looking IoT gadgets can expose attack surfaces**.
 
