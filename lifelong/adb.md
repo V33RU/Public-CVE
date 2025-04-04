@@ -25,13 +25,13 @@ Here’s what I captured:
 
 ### 1. Initial `nmap` scan showing port 5555 open
 
-![ADB port open](/lifelong/adb-1.png)
+![ADB port open](Public-CVE//lifelong/adb-1.png)
 
 ---
 
 ### 2. ADB shell session — direct access into the device
 
-![ADB shell session](/lifelong/adb-2.png)
+![ADB shell session](Public-CVE//lifelong/adb-2.png)
 
 ## 💭 Final Thoughts
 
